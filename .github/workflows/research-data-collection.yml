@@ -10,6 +10,9 @@ on:
 jobs:
   collect-research-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
     
     steps:
     - name: Checkout repository
