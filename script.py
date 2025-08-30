@@ -148,7 +148,7 @@ print(f"Total research samples collected: {len(research_dataset)}")
 
 if research_dataset:
     # Save comprehensive dataset
-    comprehensive_dataset_path = research_output / "all_NetworkProtocol_Research_Samples.txt"
+    comprehensive_dataset_path = research_output / "all_Mehdi_Rasouli_Samples.txt"
     with open(comprehensive_dataset_path, "a", encoding="utf-8") as f:
         for _, sample in research_dataset:
             f.write(sample + "\n")
@@ -160,7 +160,7 @@ if research_dataset:
         protocol_categories.setdefault(protocol_type, []).append(sample)
 
     for protocol_type, samples in protocol_categories.items():
-        protocol_dataset_path = research_output / f"{protocol_type}_NetworkProtocol_Research_Samples.txt"
+        protocol_dataset_path = research_output / f"{protocol_type}_Mehdi_Rasouli_Samples.txt"
         with open(protocol_dataset_path, "a", encoding="utf-8") as f:
             for sample in samples:
                 f.write(sample + "\n")
@@ -175,3 +175,4 @@ if research_dataset:
     print(f"Research complete: {len(primary_samples)} primary + {len(secondary_samples)} secondary samples archived.")
 else:
     print("No new research samples identified in this collection cycle.")
+
