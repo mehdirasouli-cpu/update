@@ -1,0 +1,50 @@
+name: Academic Network Research Data Collection
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */36 * * *'
+  workflow_dispatch:
+    # Allow manual triggering
+
+jobs:
+  collect-research-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python environment
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install research dependencies
+      run: |
+        pip install --upgrade pip
+        pip install selenium webdriver-manager
+        
+    - name: Setup Chrome browser for data collection
+      uses: browser-actions/setup-chrome@v1
+      
+    - name: Execute research data collection
+      run: |
+        python script.py
+        
+    - name: Configure Git for automated commits
+      run: |
+        git config --local user.email "research-bot@university.edu"
+        git config --local user.name "Research Data Collection Bot"
+        
+    - name: Commit research dataset updates
+      run: |
+        git add output/
+        if ! git diff --staged --quiet; then
+          git commit -m "📊 Research Dataset Update - $(date '+%Y-%m-%d %H:%M UTC')"
+          git push
+        else
+          echo "No new research data collected in this cycle"
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
