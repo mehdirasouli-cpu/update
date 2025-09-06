@@ -1,3 +1,6 @@
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.110:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#[🏁]t.me/ConfigsHub
 trojan://auto@162.159.136.232:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://auto@108.162.195.169:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#[🇨🇦]t.me/ConfigsHub
+trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=%2F188.34.160.97-2053&security=tls&type=ws&sni=aio.proxybox.dpdns.org#[🇨🇦]t.me/ConfigsHub
+trojan://slch2024@185.251.81.195:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🏁]t.me/ConfigsHub
+trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🇺🇸]t.me/ConfigsHub
