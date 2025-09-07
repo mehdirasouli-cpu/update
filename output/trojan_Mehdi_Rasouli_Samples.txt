@@ -4,3 +4,5 @@ trojan://auto@108.162.195.169:443?security=tls&type=ws&sni=trojanmz.pages.dev&pa
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=%2F188.34.160.97-2053&security=tls&type=ws&sni=aio.proxybox.dpdns.org#[🇨🇦]t.me/ConfigsHub
 trojan://slch2024@185.251.81.195:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🏁]t.me/ConfigsHub
 trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🇺🇸]t.me/ConfigsHub
+trojan://bpb-trojan@185.174.138.239:443?sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=/tr&allowInsecure=1#[🇷🇺]t.me/ConfigsHub
+trojan://Aimer@35.167.93.200:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
