@@ -9,3 +9,6 @@ trojan://Aimer@35.167.93.200:443?security=tls&type=tcp&sni=ngepy.ambercc.filegea
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#I%20865%D8%B1free
 trojan://slch2024@192.200.160.87:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🇺🇸]t.me/ConfigsHub
 trojan://slch2024@192.169.222.87:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🇺🇸]t.me/ConfigsHub
+trojan://NISHIKUITAN222@104.16.25.100:443?#[🇨🇦]t.me/ConfigsHub
+trojan://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?security=tls&type=ws&sni=dc1bf227.vf-8co.pages.dev&path=/Telegram@Linkvws?ed=2048&host=dc1bf227.vf-8co.pages.dev#[🇨🇦]t.me/ConfigsHub
+trojan://slch2024@194.76.18.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🏁]t.me/ConfigsHub
