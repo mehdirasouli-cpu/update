@@ -19,3 +19,8 @@ trojan://telegram-id-privatevpns@3.65.3.50:22222?security=tls&alpn=http/1.1&head
 trojan://OSXRComila@91.107.252.182:26805?type=tcp&security=none#[🇩🇪]t.me/ConfigsHub
 trojan://AO0FjYBS38ZFCC2q93RpcAXySE6wON5apeaT83nDRDZlz7KxyeYC3xaDISgul4@154.31.115.33:28332?sni=feadal.superpokemon.com#[🏁]t.me/ConfigsHub
 trojan://auto@104.20.17.177:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
+trojan://auto@104.20.20.42:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN222@104.22.2.252:443?#[🇨🇦]t.me/ConfigsHub
+trojan://auto@104.20.18.121:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN222@104.20.19.100:443?#[🇨🇦]t.me/ConfigsHub
