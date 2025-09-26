@@ -8,19 +8,11 @@ import re
 from pathlib import Path
 
 # Research Parameters
-primary_sample_count = 900
-secondary_sample_count = 99
+sample_count = 999
 max_samples_per_dataset = 999
 
 # Academic Data Sources for Network Protocol Research
-primary_data_source = "https://t.me/s/ConfigsHUB"
-secondary_data_sources = [
-    'https://t.me/s/sinavm',
-    'https://t.me/s/prrofile_purple',
-    'https://t.me/s/V2RayNgTE',
-    'https://t.me/s/MARAMBASHI',
-    
-]
+data_source = "https://t.me/s/ConfigsHUB"
 
 # Research output directory
 research_output = Path("output")
@@ -122,43 +114,27 @@ def optimize_dataset(file_path, max_entries):
 
 # Research Data Collection Process
 print("Initiating research data collection...")
-print(f"Target: {primary_sample_count} from primary source, {secondary_sample_count} total from {len(secondary_data_sources)} secondary sources")
+print(f"Target: {sample_count} samples from {data_source}")
 
 start_time = time.time()
-primary_samples = collect_research_samples(primary_data_source, primary_sample_count)
-primary_time = time.time() - start_time
-print(f"Primary source collection completed in {primary_time:.1f} seconds")
-
-secondary_samples = []
-for i, source in enumerate(secondary_data_sources, 1):
-    if len(secondary_samples) >= secondary_sample_count:
-        break
-    remaining_capacity = secondary_sample_count - len(secondary_samples)
-    print(f"\nCollecting from secondary source {i}/{len(secondary_data_sources)}: {source}")
-    source_start = time.time()
-    source_samples = collect_research_samples(source, remaining_capacity)
-    source_time = time.time() - source_start
-    print(f"Secondary source {i} completed in {source_time:.1f} seconds, collected {len(source_samples)} samples")
-    secondary_samples.extend(source_samples)
+collected_samples = collect_research_samples(data_source, sample_count)
+collection_time = time.time() - start_time
+print(f"Collection completed in {collection_time:.1f} seconds")
 
 driver.quit()
-total_time = time.time() - start_time
-print(f"\nTotal data collection completed in {total_time:.1f} seconds")
+print(f"Total research samples collected: {len(collected_samples)}")
 
-research_dataset = primary_samples + secondary_samples
-print(f"Total research samples collected: {len(research_dataset)}")
-
-if research_dataset:
+if collected_samples:
     # Save comprehensive dataset
     comprehensive_dataset_path = research_output / "all_Mehdi_Rasouli_Samples.txt"
     with open(comprehensive_dataset_path, "a", encoding="utf-8") as f:
-        for _, sample in research_dataset:
+        for _, sample in collected_samples:
             f.write(sample + "\n")
     optimize_dataset(comprehensive_dataset_path, max_samples_per_dataset)
 
     # Categorize by protocol type
     protocol_categories = {}
-    for protocol_type, sample in research_dataset:
+    for protocol_type, sample in collected_samples:
         protocol_categories.setdefault(protocol_type, []).append(sample)
 
     for protocol_type, samples in protocol_categories.items():
@@ -170,11 +146,11 @@ if research_dataset:
 
     # Update processed samples registry
     with open(processed_samples_file, "a", encoding="utf-8") as f:
-        for _, sample in research_dataset:
+        for _, sample in collected_samples:
             sample_hash = hashlib.sha256(sample.encode("utf-8")).hexdigest()
             f.write(sample_hash + "\n")
 
-    print(f"Research complete: {len(primary_samples)} primary + {len(secondary_samples)} secondary samples archived.")
+    print(f"Research complete: {len(collected_samples)} samples archived.")
 else:
     print("No new research samples identified in this collection cycle.")
 
