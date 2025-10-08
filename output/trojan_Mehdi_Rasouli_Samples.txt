@@ -24,3 +24,5 @@ trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&typ
 trojan://auto@104.20.22.232:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇺🇸]t.me/ConfigsHub
 trojan://auto@104.20.21.152:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇺🇸]t.me/ConfigsHub
 trojan://tg-dns68@162.159.152.228:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
+trojan://9yu6m5okr@104.21.50.5:443?security=tls&type=ws&sni=production.tj.ojan.workers.dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=production.tj.ojan.workers.dev#[🇺🇸]t.me/ConfigsHub
+trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=firefox&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh#[🇺🇸]t.me/ConfigsHub
