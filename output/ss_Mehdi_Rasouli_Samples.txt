@@ -66,3 +66,4 @@ ss://21e731fb-6f76-4a90-8330-420fba7552ba@95.134.130.138:3477?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407102132.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206N2Y5MTJlYmYtMDA5NC00NjFmLWI2NWUtZmM5ZDkzMWJmMDEy@45.134.13.75:443#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptbzJXQ3FHbFIxa29ZcFl1SGFsWTkz@[2602:f6f6:2:1005::1]:443#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeDNWQnZ2SEM3bGdnOE5uRjZTVlp4@90.156.231.238:11048#[🏁]t.me/ConfigsHub
