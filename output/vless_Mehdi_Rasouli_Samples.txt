@@ -449,3 +449,4 @@ vless://0b25d8f1-bff6-45af-a38c-8ff8f9e54a82@51.89.176.242:3478?encryption=none&
 vless://cc3afbee-5a0c-475e-85a0-fcb15236e2f7@m61a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
 vless://8e4ec018-b237-48ef-a09b-c8c2b2cee74b@m37a.vip784.com:33801?security=none&encryption=none&host=varzesh3.irJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
