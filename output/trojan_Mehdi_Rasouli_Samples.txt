@@ -41,3 +41,4 @@ trojan://tg-dns68@162.159.153.38:443?security=tls&type=ws&sni=vip.putata.eu.org&
 trojan://cbaaacb-baac-abac-acbd-bbabcccacbaa@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 trojan://NISHIKUITAN222@152.70.249.67:443?#[🏁]t.me/ConfigsHub
 trojan://bccabaa-bcaa-aabc-cabd-bbacaaacbbcc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.39.42.248:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
