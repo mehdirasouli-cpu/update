@@ -46,3 +46,4 @@ trojan://Bia-Daily-Configs@162.159.153.2:2053?security=tls&type=ws&sni=kanale-da
 trojan://tg-dns68@162.159.153.68:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#[🏁]t.me/ConfigsHub
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.192.145:443?security=tls&type=ws&sni=jobscareerforlawyers.com&path=/6b777a91&host=jobscareerforlawyers.com#[🏁]t.me/ConfigsHub
 trojan://3648425794742788096@91.206.179.250:443?#[🏁]t.me/ConfigsHub
+trojan://SSorg@213.241.198.56:2083?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#[🏁]t.me/ConfigsHub
