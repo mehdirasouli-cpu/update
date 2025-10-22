@@ -633,3 +633,7 @@ vless://2e532561-7a61-4fdf-a534-706682c2e209@nl.iskra-connect.xyz:443?security=r
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.18.225:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.49:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.146:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
+vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@104.21.15.212:8080?encryption=none&security=none&type=ws&host=201.58vtg99l.workers.dev#[🏁]t.me/ConfigsHub
+vless://8895e7e3-113c-4833-a560-422c9a34dd40@server1.haiali.cyou:4040?encryption=none&type=ws&path=/@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel&security=none#[🏁]t.me/ConfigsHub
