@@ -61,3 +61,5 @@ trojan://channel-daily-configs@104.17.97.5:2053?security=tls&type=ws&sni=kanale-
 trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.47.23:443?security=tls&type=ws&sni=aksnmaioas.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&host=aksnmaioas.pages.dev#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.181.251.73:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.177.249.188:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
+trojan://aa81d044-0e0a-5b01-a6d7-3981ed218497@104.17.148.22:2095?security=none&type=ws&path=/&host=at1.vless.Sitespeedtest.net.#[🏁]t.me/ConfigsHub
+trojan://tg-dns68@162.159.153.13:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#[🏁]t.me/ConfigsHub
