@@ -58,3 +58,6 @@ trojan://bpb-trojan@198.41.215.216:443?allowInsecure=1&sni=bpb.my79801.com&ws=1&
 trojan://blue2024@104.17.147.167:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#[🏁]t.me/ConfigsHub
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&type=ws&sni=ArGodev11222.PaGes.Dev&path=/Telegram@Linkvws?ed=2560&host=argodev11222.pages.dev#[🏁]t.me/ConfigsHub
 trojan://channel-daily-configs@104.17.97.5:2053?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#[🏁]t.me/ConfigsHub
+trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.47.23:443?security=tls&type=ws&sni=aksnmaioas.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&host=aksnmaioas.pages.dev#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.181.251.73:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.177.249.188:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
