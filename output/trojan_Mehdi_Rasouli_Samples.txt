@@ -65,3 +65,4 @@ trojan://aa81d044-0e0a-5b01-a6d7-3981ed218497@104.17.148.22:2095?security=none&t
 trojan://tg-dns68@162.159.153.13:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#[🏁]t.me/ConfigsHub
 trojan://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443?security=tls&type=ws&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&path=/cassiusvpn.pages.dev/?ed=2560&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#[🏁]t.me/ConfigsHub
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.204.84:8443?security=tls&type=ws&sni=vfarid.xcdi.woRkers.DeV&path=trojan-ws/?ed=2048&host=vfarid.xcdi.woRkers.DeV#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@51.44.61.98:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
