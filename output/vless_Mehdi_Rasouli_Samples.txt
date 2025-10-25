@@ -686,3 +686,6 @@ vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443?path=%2Flinkws%3Fe
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.97:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.38:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
+vless://e80cf746-17a5-997c-fb20-80ab68287903@finland.marzxo.biz:8084?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
