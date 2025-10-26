@@ -69,3 +69,5 @@ trojan://telegram-id-directvpn@51.44.61.98:22222?allowInsecure=0&sni=trojan.burg
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&type=ws&sni=jobscareerforlawyers.com&path=/6b777a91&host=jobscareerforlawyers.com#[🏁]t.me/ConfigsHub
 trojan://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?security=tls&type=ws&sni=pardazeshvpn-tg48.pages.dev&path=/Telegram@Linkvws?ed=2560&host=pardazeshvpn-tg48.pages.dev#[🏁]t.me/ConfigsHub
 trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@ent1.imyourdaddy.top:20990?sni=sale.alibaba.com#[🏁]t.me/ConfigsHub
+trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@104.21.69.44:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&type=ws&host=trojan.trojan0.woRkeRS.deV&path=trojan-ws%2F%3Fed#[🏁]t.me/ConfigsHub
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#[🏁]t.me/ConfigsHub
