@@ -147,3 +147,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY25yd1EwSWsxN29RNVdsakZYYlRw@62.133.63.21:6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpENUh5dHZYNW1QMzBhNlJpYVR3Ykdp@138.124.184.70:34868?note=--Telegram--@NetifyVPN--#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTks3Q3Z1dldUcEYyWlkzZDl5Z3Qx@109.122.197.192:443?type=tcp#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2STFtcHFLQXFwZ09kZ2tKd2ltemFI@92.118.112.101:9483#[🇺🇸]t.me/ConfigsHub
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.194:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
