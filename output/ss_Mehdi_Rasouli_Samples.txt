@@ -150,3 +150,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2STFtcHFLQXFwZ09kZ2tKd2ltemFI@92.118.112.101
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.194:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.101:2222#[🇵🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I@78.153.131.96:443?prefix%16%03%01%00%C2%A8%01%01#[🇱🇹]t.me/ConfigsHub
