@@ -86,3 +86,6 @@ trojan://nFxZpRAcgDyuSNF3jeRIay4YDzS76BC90eDlCZ5w3O2Sa3CaX3KlpxAE8OY8qT@154.17.1
 trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@my01.trojanyyds.xyz:443?allowInsecure=0#[🇸🇬]t.me/ConfigsHub
 trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@pl.mjt001.com:443?allowInsecure=0#[🇭🇰]t.me/ConfigsHub
 trojan://blue2024@190.93.247.128:443?sni=hb.lii2010.us.kg#[🇨🇷]t.me/ConfigsHub
+trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.7.147:443/?type=tcp&security=tls&sni=44444444.HuanGShANG.DPDNs.oRG&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
+trojan://bpb-trojan@162.159.152.198:443?security=tls&type=tcp&sni=bpbpanel.ac.cn.eu.org#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.78.75.41:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
