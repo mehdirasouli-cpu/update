@@ -8,8 +8,8 @@ import re
 from pathlib import Path
 
 # Research Parameters
-sample_count = 200
-max_samples_per_dataset = 200
+sample_count = 100
+max_samples_per_dataset = 300
 
 # Academic Data Sources for Network Protocol Research
 data_source = "https://t.me/s/ConfigsHUB"
@@ -153,6 +153,7 @@ if collected_samples:
     print(f"Research complete: {len(collected_samples)} samples archived.")
 else:
     print("No new research samples identified in this collection cycle.")
+
 
 
 
