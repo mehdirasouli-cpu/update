@@ -93,3 +93,4 @@ trojan://telegram-id-directvpn@63.179.217.150:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@63.179.217.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://tg-dns68@162.159.153.239:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#[🇨🇦]t.me/ConfigsHub
 trojan://vp0GmFj.yIw1RZrd@155.138.228.41:19313?encryption=none&security=tls&sni=raincoat.bluetigeraa.click&type=raw&headertype=none#[🇺🇸]t.me/ConfigsHub
+trojan://auto@104.20.17.232:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
