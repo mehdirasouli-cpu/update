@@ -98,3 +98,4 @@ trojan://0@154.17.225.73:443/?type=ws&host=snippets.sbak.netlib.re&path=%2Fproxy
 trojan://auto@172.64.35.202:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.123.147.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.77.167.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@15.204.20.229:443?allowInsecure=0#[🇺🇸]t.me/ConfigsHub
