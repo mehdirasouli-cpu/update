@@ -99,3 +99,6 @@ trojan://auto@172.64.35.202:443?security=tls&type=ws&sni=trojanmz.pages.dev&host
 trojan://telegram-id-directvpn@3.123.147.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.77.167.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@15.204.20.229:443?allowInsecure=0#[🇺🇸]t.me/ConfigsHub
+trojan://2302eb2b-9401-4176-a4da-b41d4cd55756@185.247.184.186:8443?path=%2FFree-VPN-CF-Geo-Project%2F185.247.184.186%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#[🇮🇹]t.me/ConfigsHub
+trojan://9d6aef63-e6c6-4a0f-a001-221450103494@195.16.74.240:81?path=%2FFree-VPN-CF-Geo-Project%2F195.16.74.240%3D81&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#[🇹🇷]t.me/ConfigsHub
+trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443?path=%2FFree-VPN-CF-Geo-Project%2F109.169.76.23%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#[🇬🇧]t.me/ConfigsHub
