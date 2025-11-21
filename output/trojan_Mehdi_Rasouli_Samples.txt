@@ -106,3 +106,4 @@ trojan://0507fbcd-b983-43a7-8e1d-2c561960ad4f@4d41-b510-fc35f2d7ecd7.664.qzz.io:
 trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288/?type=tcp&security=tls&sni=sweetdream.sweetthunder.click#[🇫🇷]t.me/ConfigsHub
 trojan://e9249478-ea4e-432f-a918-e84c1ce143c6@89.28.236.243:443?path=%2FFree-VPN-CF-Geo-Project%2F89.28.236.243%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#[🇩🇰]t.me/ConfigsHub
 trojan://0e0c9c2a-6166-4337-bdfc-675602365807@141.94.204.212:2053?path=%2FFree-VPN-CF-Geo-Project%2F141.94.204.212%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#[🇫🇷]t.me/ConfigsHub
+trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053?path=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053&security=tls&host=joss.gpj1.web.id&type=ws&sni=joss.gpj1.web.id#[🇫🇷]t.me/ConfigsHub

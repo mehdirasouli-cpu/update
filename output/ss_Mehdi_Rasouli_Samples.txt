@@ -218,3 +218,4 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WXpJNU1tTXhZV1ptTmpOaU5HRTVOR0k1WVdRd1pqUTR
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.140:38388#[🇻🇳]t.me/ConfigsHub
 ss://bbd6a68d-e95f-4006-b402-e3506d52dd79@5.75.197.237:8880?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080?note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@45.93.94.237:8618#[🇮🇱]t.me/ConfigsHub
