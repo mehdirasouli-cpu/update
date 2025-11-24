@@ -112,3 +112,4 @@ trojan://telegram-id-privatevpns@15.188.206.31:22222?security=tls&alpn=http/1.1&
 trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#[🇨🇦]t.me/ConfigsHub
 trojan://tg-dns68@162.159.153.128:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN111@198.41.212.233:443?#[🇨🇦]t.me/ConfigsHub
+trojan://0b5ea56a-056b-4917-9a47-b20ecfb78ad9@188.132.129.199:2053?path=/Free-VPN-CF-Geo-Project/188.132.129.199=2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#[🇹🇷]t.me/ConfigsHub
