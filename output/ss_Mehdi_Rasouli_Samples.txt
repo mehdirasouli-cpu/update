@@ -242,3 +242,4 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#[🇺🇸]t.me/
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDc1NjAyMzA@clr.ducks.tel:17844#[🇷🇺]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#[🇮🇹]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#[🇺🇸]t.me/ConfigsHub
