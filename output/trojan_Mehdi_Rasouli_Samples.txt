@@ -123,3 +123,6 @@ trojan://tg-dns68@162.159.152.231:443?security=tls&type=ws&sni=vip.putata.eu.org
 trojan://auto@104.21.48.61:443?encryption=none&security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&type=ws&host=nameless-term-9c25.vpnconnect202020.workers.dev#[🇨🇦]t.me/ConfigsHub
 trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?path=%2FFree-VPN-CF-Geo-Project%2F81.22.132.183%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#[🇳🇱]t.me/ConfigsHub
 trojan://2cf6d686799e6fa95316394064f26c0a@160.16.240.91:2760?allowInsecure=1&sni=www.nintendogames.net#[🇯🇵]t.me/ConfigsHub
+trojan://2cf6d686799e6fa95316394064f26c0a@202.181.103.235:2760?allowInsecure=1&sni=www.nintendogames.net#[🇯🇵]t.me/ConfigsHub
+trojan://BxceQaOe@58.152.53.8:443?allowInsecure=1&sni=t.me%2Fripaojiedian#[🇭🇰]t.me/ConfigsHub
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.117.182:3093?allowInsecure=1&sni=www.nintendogames.net#[🇯🇵]t.me/ConfigsHub
