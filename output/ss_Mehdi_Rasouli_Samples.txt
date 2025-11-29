@@ -258,3 +258,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#[🇳🇱]t.me/ConfigsHub
+ss://e5107ad1-c575-494e-ad44-3bafbb1779b1@172.67.214.246:8443?security=tls&sni=pastiroo.pages.dev&type=ws&host=pastiroo.pages.dev&path=mehdi%2F%3Fed%3D2560&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/ConfigsHub
+ss://8b8dcca7-39f6-47ed-90ac-597eb3b206ee@am255.amin5646.ir:2082?mode=auto&path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&host=am290.amin5646.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
+ss://883374fe-1ff9-4e38-c217-00df5490ccf1@85.192.26.177:26390/?type=tcp&encryption=none&security=none#[🇳🇱]t.me/ConfigsHub

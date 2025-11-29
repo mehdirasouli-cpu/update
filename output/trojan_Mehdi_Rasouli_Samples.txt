@@ -127,3 +127,6 @@ trojan://2cf6d686799e6fa95316394064f26c0a@202.181.103.235:2760?allowInsecure=1&s
 trojan://BxceQaOe@58.152.53.8:443?allowInsecure=1&sni=t.me%2Fripaojiedian#[🇭🇰]t.me/ConfigsHub
 trojan://2cf6d686799e6fa95316394064f26c0a@160.16.117.182:3093?allowInsecure=1&sni=www.nintendogames.net#[🇯🇵]t.me/ConfigsHub
 trojan://NISHIKUITAN222@188.114.96.113:443?#[🇨🇦]t.me/ConfigsHub
+trojan://bpb-trojan@104.16.171.51:443?allowInsecure=1&sni=bpb.my79801.com#[🇨🇦]t.me/ConfigsHub
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.106.144:127?security=tls&sni=www.nintendogames.net&type=tcp&path=/#[🇯🇵]t.me/ConfigsHub
+trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591/?type=tcp&security=tls&sni=bldgmy.nejzftlubrig.click&allowInsecure=1#[🇳🇴]t.me/ConfigsHub
