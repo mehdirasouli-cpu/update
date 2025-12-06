@@ -139,3 +139,4 @@ trojan://telegram-id-privatevpns@52.59.32.176:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@52.59.32.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&authority=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#[🇺🇸]t.me/ConfigsHub
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990/?type=tcp&security=tls&sni=diningtable.electricbanana.click&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.87.174:3169?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.nintendogames.net#[🇯🇵]t.me/ConfigsHub
