@@ -141,3 +141,5 @@ trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&authority=%2F-
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990/?type=tcp&security=tls&sni=diningtable.electricbanana.click&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.87.174:3169?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.nintendogames.net#[🇯🇵]t.me/ConfigsHub
 trojan://f62b3d55-66e5-4a2e-9ddc-a294bbce7b13@58.16.188.36:233?allowInsecure=1&sni=inf-us1.qchwnd.moe#[🇨🇳]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.121.158.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.121.158.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
