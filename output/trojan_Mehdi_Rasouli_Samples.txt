@@ -168,3 +168,4 @@ trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.250:27234/?type=tcp&security=tls&sni
 trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=io.ozone.ru&allowInsecure=1&fp=chrome#[🇳🇴]t.me/ConfigsHub
 trojan://oeEC2cXUJRlQaToKGL91iNr8A%3DZM3@66.135.4.81:25134/?type=tcp&security=tls&sni=api-maps.yandex.ru&allowInsecure=1&fp=chrome#[🇺🇸]t.me/ConfigsHub
 trojan://oeEC2cXUJRlQaToKGL91iNr8A%3DZM3@209.222.17.236:25134/?type=tcp&security=tls&sni=api-maps.yandex.ru&allowInsecure=1&fp=chrome#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@51.21.70.184:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
