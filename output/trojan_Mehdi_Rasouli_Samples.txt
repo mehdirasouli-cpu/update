@@ -172,3 +172,7 @@ trojan://telegram-id-privatevpns@51.21.70.184:22222?security=tls&headerType=none
 trojan://zWFjJENcljZm@usa.visa.com:443?path=%2F%3Fed%3D2560&security=tls&insecure=0&host=vahidqaz-7o61u7.vahidqaz.workers.dev&fp=randomized&type=ws&allowInsecure=0&sni=vahidqaz-7o61u7.vahidqaz.workers.dev#[🇨🇦]t.me/ConfigsHub
 trojan://d30ab83dbde4480082048fb315bedebd@59.37.173.53:3387?encryption=none&security=tls&sni=59.37.173.53&type=raw&headertype=none#[🇨🇳]t.me/ConfigsHub
 trojan://POORIARED@172.67.134.185:443?sni=reDfRee8.REDFree8.ir&type=ws&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&fp=chrome#[🇨🇦]t.me/ConfigsHub
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#[🇳🇴]t.me/ConfigsHub
+trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#[🇳🇴]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.58.49.169:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://Htbm5NChh4@136.244.101.16:22328?security=tls&headerType=http&type=tcp&sni=ne.atrinshops.ir#[🇳🇱]t.me/ConfigsHub
