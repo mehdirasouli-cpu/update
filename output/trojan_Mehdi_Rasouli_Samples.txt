@@ -190,3 +190,4 @@ trojan://92690597d6298061459918a371e8d77d@47.242.225.242:443/?type=tcp&security=
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#[🇷🇺]t.me/ConfigsHub
 trojan://sMed9E7gA1@verahk1.uspn.io:443/?type=ws&host=verahk1.uspn.io&path=%2Ftrojan&security=tls&sni=verahk1.uspn.io&allowInsecure=1#[🇭🇰]t.me/ConfigsHub
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435/?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click&allowInsecure=1#[🇯🇵]t.me/ConfigsHub
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=5.188.108.13&allowInsecure=true&fp=chrome#[🇵🇱]t.me/ConfigsHub
