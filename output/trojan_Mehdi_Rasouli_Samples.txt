@@ -199,3 +199,4 @@ trojan://telegram-id-directvpn@3.64.206.215:22223?security=tls&alpn=http/1.1&hea
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?path=%2Ff2fc2a1f&security=tls&insecure=1&host=free-de-3.undef.network&type=ws&allowInsecure=1&sni=free-de-3.undef.network#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.93.68.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@54.93.68.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none#[🇭🇰]t.me/ConfigsHub
