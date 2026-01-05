@@ -202,3 +202,5 @@ trojan://telegram-id-directvpn@54.93.68.91:22223?security=tls&alpn=http/1.1&head
 trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none#[🇭🇰]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.28.215.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://51tndwKFnB@70.34.205.120:443?security=none&type=grpc&serviceName=www.speedtest.net#[🇸🇪]t.me/ConfigsHub
+trojan://Aimer@104.26.15.138:2053#[🇨🇦]t.me/ConfigsHub
+trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#[🇨🇦]t.me/ConfigsHub
