@@ -204,3 +204,4 @@ trojan://telegram-id-directvpn@52.28.215.27:22223?security=tls&alpn=http/1.1&hea
 trojan://51tndwKFnB@70.34.205.120:443?security=none&type=grpc&serviceName=www.speedtest.net#[🇸🇪]t.me/ConfigsHub
 trojan://Aimer@104.26.15.138:2053#[🇨🇦]t.me/ConfigsHub
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#[🇨🇦]t.me/ConfigsHub
+trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=random&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=apple.com&sid=aabbccdd#[🇫🇷]t.me/ConfigsHub
