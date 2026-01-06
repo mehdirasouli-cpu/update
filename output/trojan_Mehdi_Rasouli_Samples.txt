@@ -205,3 +205,6 @@ trojan://51tndwKFnB@70.34.205.120:443?security=none&type=grpc&serviceName=www.sp
 trojan://Aimer@104.26.15.138:2053#[🇨🇦]t.me/ConfigsHub
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#[🇨🇦]t.me/ConfigsHub
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=random&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=apple.com&sid=aabbccdd#[🇫🇷]t.me/ConfigsHub
+trojan://Z3PEQ5hMBdqF7H41g9LyaxpGD1rn@38.60.168.10:26390/?type=tcp&security=tls&sni=m.vk.com#[🇲🇾]t.me/ConfigsHub
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790/?type=tcp&security=tls#[🇵🇱]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.16.122.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
