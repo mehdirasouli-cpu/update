@@ -208,3 +208,5 @@ trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pb
 trojan://Z3PEQ5hMBdqF7H41g9LyaxpGD1rn@38.60.168.10:26390/?type=tcp&security=tls&sni=m.vk.com#[🇲🇾]t.me/ConfigsHub
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790/?type=tcp&security=tls#[🇵🇱]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.16.122.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.64.242.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?path=%2F&security=tls&fp=chrome&allowinsecure=0&type=ws&sni=_acme-challenge.2go.cloudns.be#[🇨🇦]t.me/ConfigsHub
