@@ -1,6 +1,3 @@
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#[🇬🇧]t.me/ConfigsHub
-vless://EXPRESSVPN_420@test.fast199.hosting-ip.com:80?mode=auto&security=none&encryption=none&host=mopd.global.ssl.fastly.net&type=xhttp#[🇳🇱]t.me/ConfigsHub
-vless://51209cce-e3f4-4237-a157-d75b83fcdd66@145.239.31.99:7005?security=reality&encryption=none&pbk=Cz-qN4FxgYUmrKUyots3FCe0tHP9wvK-1KNZYaLyCnQ&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=firefox&type=tcp&sni=refersion.com#[🇵🇱]t.me/ConfigsHub
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.214.158:2096?path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#[🇦🇲]t.me/ConfigsHub
 vless://cb495349-f0c5-464d-89a3-6f162c04b906@nl-ws.rush-server.com:443?path=%2FvwsS9d6&security=tls&encryption=none&host=huli-nada.com&fp=qq&type=ws&sni=huli-nada.com#[🇳🇱]t.me/ConfigsHub
 vless://1ca2c9e4-6e23-41df-b95c-95e24250033e@77.83.245.195:10503?security=reality&encryption=none&pbk=cQ2EflSSv_I45XS6YJosrLE0m0IEI8DYqxmVcs8FunA&host=Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=7c7f29056280eae6#[🇹🇷]t.me/ConfigsHub
@@ -298,3 +295,6 @@ vless://ab8a745c-e989-4f7f-994a-868eb328e4ea@sr1.cloud-files-uploader.com:2082?p
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.65.205.194:2053?security=tls&sni=bPbG.168168.us.KG&type=ws&host=BPBG.168168.US.kg&fp=chrome&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
 vless://telegram-id-ArV2ray@185.234.65.145:4423?mode=gun&security=reality&encryption=none&pbk=D4fo-UBIrSlLx3R8qu3iWSoynAvArdXpn5uZoDEt3Uc&fp=chrome&type=grpc&serviceName=t.me/entryNET&sni=animejs.com&sid=b740#[🇳🇱]t.me/ConfigsHub
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.24.40:80?security=none&type=ws&host=us3.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
+vless://feb83e1f-038a-484d-b86d-0a1673311dd4@www.parsvds.ir:80?type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed=8080&security=none#[🇨🇦]t.me/ConfigsHub
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.66.177:2095?security=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxingnmsl.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://e958946d-0b4c-4fb0-a694-39b7f87bcf43@new.configyous.site:12385?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
