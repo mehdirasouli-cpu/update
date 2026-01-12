@@ -216,3 +216,5 @@ trojan://telegram-id-directvpn@63.181.90.241:22223?security=tls&alpn=http/1.1&he
 trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&headerType=none&type=tcp&sni=wuxgk.phooeyunfold.com#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.57.111.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://ypDt8RkT7J@138.199.41.25:43118?type=tcp&security=tls&sni=dngn.phooeyunfold.com#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@63.181.28.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.36.1.246:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
