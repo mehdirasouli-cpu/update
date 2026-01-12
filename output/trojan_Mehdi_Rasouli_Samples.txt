@@ -215,3 +215,4 @@ trojan://3437698@8.35.211.15:8443?path=%2F%3Fed%3D2560&security=tls&host=rough-v
 trojan://telegram-id-directvpn@63.181.90.241:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&headerType=none&type=tcp&sni=wuxgk.phooeyunfold.com#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.57.111.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://ypDt8RkT7J@138.199.41.25:43118?type=tcp&security=tls&sni=dngn.phooeyunfold.com#[🇺🇸]t.me/ConfigsHub
