@@ -1,12 +1,3 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@zula.ir:443?path=/XWaLXW93BDUqwF2G/c3BlZWR0ZXN0LWZyNS5nY29yZS5jb20=?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=TElGramcxrOLVPn.paGEs.Dev&fp=randomized&type=ws&sni=TELgRaMCxroLVPN.PagES.Dev#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.16.122.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
-vless://b5471668-94dc-4ea5-ae97-3bb9dabcd2a9@216.133.149.139:23581?security=reality&encryption=none&pbk=EOYTqph-go2SazIPcSDl5pJGNyOnrR0mWaL8Tc_paEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#[🇺🇸]t.me/ConfigsHub
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.152.87:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCNE5va2ozWXFmdGE2dFdxdW02cjhr@46.29.238.83:28768#[🇳🇴]t.me/ConfigsHub
-vless://Telegram-ipV2Ray-how@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ipV2Ray?ed=2048&host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#[🇨🇦]t.me/ConfigsHub
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.213:443?security=tls&sni=jpi.ylks01.eu.org&type=ws&path=/blue#[🇿🇦]t.me/ConfigsHub
-vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@95.182.97.162:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&type=grpc&serviceName=7034vless&sni=telewebion.com&sid=16b6cda7ab793526#[🇫🇷]t.me/ConfigsHub
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.96.19:80?security=none&type=ws&host=us3.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
 vless://Parsashonam-47@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
 vless://9a0a7112-14db-48ab-815d-8b90a5ac18ae@104.21.19.124:8880?type=httpupgrade&path=/nazan/pedar/sag&host=splUs.Ir.DigIcYBer.CLIck.&security=none#[🇨🇦]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.103:443?security=tls&sni=zdyi.kpcloud.eu.org&type=ws&path=/blue#[🇺🇸]t.me/ConfigsHub
@@ -298,3 +289,12 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.103:443?security=tls&sni
 vless://337a9dd0-710f-446b-b96b-1263c8948766@104.17.148.22:8443?security=tls&sni=soheil.soheil.sbs&type=ws&host=soheil.soheil.sbs.&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://7bdbc101-c0a7-4463-9d41-c743c3786563@116.202.108.164:443?type=tcp&host=vkvd127.mycdn.me&headerType=http#[🇩🇪]t.me/ConfigsHub
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.227.228:80?security=none&type=ws&host=us3.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.37.251:80?path=%2F&security=none&encryption=none&host=us3.rtacg.com&type=ws#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxMDQuMTkuNDYuMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImlwMTQuZnJlZWdyYWRlbHkueHl6IiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwODYiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://Telegram-ipV2Ray-faw@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://66027710-1509-468b-a513-c32a7db95b80@141.227.166.221:13157?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#[🇳🇴]t.me/ConfigsHub
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&alpn=h2&fp=chrome&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1%23%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#[🇨🇦]t.me/ConfigsHub
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?security=none&encryption=none&host=mitivpn.global.ssl.fastly.net&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://68aeb4a6-8e12-4f10-b60b-11518a5b9d36@104.16.94.86:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=qxz08.indevs.in&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.25.230:80?security=none&type=ws&host=us3.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.28.206:80?security=none&type=ws&host=us3.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
