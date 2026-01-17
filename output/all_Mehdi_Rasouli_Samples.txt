@@ -1,10 +1,3 @@
-vless://feb83e1f-038a-484d-b86d-0a1673311dd4@104.21.94.168:80?security=none&type=ws&host=vpncustomize-vpncustomize-vpncustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed%3D8080#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.245.111:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNTN1SnNaYzZkelRCWURFcWcxYTMwQmgxaEFkNEhRemdwd0NWZHB6S3dmRjJaVWg=@168.119.57.171:51348#[🇩🇪]t.me/ConfigsHub
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.126:80?security=none&type=ws&host=us3.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
-vless://SVNTEAMx@speedtest.net:443?path=/?ed=1024&security=tls&encryption=none&alpn=h2,http/1.1&host=torb.com&fp=firefox&type=ws&sni=speedtest.net#[🇨🇦]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#[🇬🇧]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#[🇫🇷]t.me/ConfigsHub
 vless://a70d24ce-4dcc-860f-e016-79b06c700ef2@185.232.155.79:7166?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://eabf9ad5-189b-43fa-b9d3-7c6f8e4496da@speedtest.net:80?path=%2F%3Fed%3D1024&security=&encryption=none&host=svnteamm3.global.ssl.fastly.net&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://47e58d7e-87df-435f-9c64-e5c375d30c54@fastly.aireacondicionadoalicante.eu:80?mode=auto&path=%2F&security=&encryption=none&host=r8x-net.global.ssl.fastly.net&type=xhttp#[🇨🇦]t.me/ConfigsHub
@@ -298,3 +291,10 @@ vless://8a07740f-b932-4372-a3a2-ed91f184cd33@25.129.197.138:2053?encryption=none
 vless://0e0bf934-1942-4379-9c98-5cd9aa93140a@25.129.197.138:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=speed1.best-cloud.ir&fp=firefox&type=ws&sni=speed1.best-cloud.ir#[🇬🇧]t.me/ConfigsHub
 vless://2452c5b1-26b3-4265-a2d8-818f62685f97@25.129.199.122:2087?encryption=none&type=ws&path=/graphql&security=tls&fp=firefox&sni=cloudali.sudo-network.xyz&alpn=h2,http/1.1#[🇬🇧]t.me/ConfigsHub
 trojan://09553aee-5191-4870-a312-51d053ea668b@157.120.35.234:443?allowInsecure=1&sni=download.windowsupdate1.com#[🇯🇵]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.69.217.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://telegram-id-ArV2ray@www.speedtest.net:2095?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=8.V.V2.www.speedtest.net.ftp.debian.org.bahrane.ir.&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.126.10.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.177.79:80?security=none&type=ws&host=us3.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
+vless://aab74025-0737-410c-b048-bcbde3bc1852@141.227.174.26:32418?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#[🇬🇧]t.me/ConfigsHub
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@213.176.73.206:2083?mode=gun&security=reality&encryption=none&authority=&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=chrome&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=apple.com&sid=6da16b1335651b38#[🇫🇷]t.me/ConfigsHub
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.85.90:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#[🇨🇦]t.me/ConfigsHub
