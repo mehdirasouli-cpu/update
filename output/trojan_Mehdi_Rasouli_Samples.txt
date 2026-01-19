@@ -222,3 +222,5 @@ trojan://09553aee-5191-4870-a312-51d053ea668b@157.120.35.234:443?allowInsecure=1
 trojan://telegram-id-directvpn@3.69.217.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.126.10.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.156.233.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇨🇦]t.me/ConfigsHub
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.177.169.255:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
