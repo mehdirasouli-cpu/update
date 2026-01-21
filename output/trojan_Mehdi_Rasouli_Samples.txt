@@ -224,3 +224,4 @@ trojan://telegram-id-directvpn@3.126.10.183:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@15.156.233.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇨🇦]t.me/ConfigsHub
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.177.169.255:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://trojan@chatgpt.com:8443?security=tls&sni=fofang.pages.dev&insecure=1&allowInsecure=1&type=ws&path=%2F#[🇨🇦]t.me/ConfigsHub
