@@ -227,3 +227,5 @@ trojan://telegram-id-directvpn@35.177.169.255:22222?security=tls&alpn=http%2F1.1
 trojan://trojan@chatgpt.com:8443?security=tls&sni=fofang.pages.dev&insecure=1&allowInsecure=1&type=ws&path=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@104.18.32.47:443?path=%2F&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=_acme-challenge.2go.cloudns.be#[🇨🇦]t.me/ConfigsHub
 trojan://er668@104.18.32.47:443?encryption=none&security=tls&sni=kfjdi.pages.dev&fp=chrome&type=ws&path=%2F%3Fed%3D2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#[🇨🇦]t.me/ConfigsHub
+trojan://BxceQaOe@58.152.53.219:443?security=tls&encryption=none&type=tcp&sni=t.me%252Fripaojiedian#[🇭🇰]t.me/ConfigsHub
+trojan://BxceQaOe@58.152.25.236:443?security=tls&encryption=none&type=tcp&sni=t.me%2Fripaojiedian#[🇭🇰]t.me/ConfigsHub
