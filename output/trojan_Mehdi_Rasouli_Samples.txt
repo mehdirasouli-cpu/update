@@ -229,3 +229,4 @@ trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@104.18.32.47:443?path=%2F&security
 trojan://er668@104.18.32.47:443?encryption=none&security=tls&sni=kfjdi.pages.dev&fp=chrome&type=ws&path=%2F%3Fed%3D2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#[🇨🇦]t.me/ConfigsHub
 trojan://BxceQaOe@58.152.53.219:443?security=tls&encryption=none&type=tcp&sni=t.me%252Fripaojiedian#[🇭🇰]t.me/ConfigsHub
 trojan://BxceQaOe@58.152.25.236:443?security=tls&encryption=none&type=tcp&sni=t.me%2Fripaojiedian#[🇭🇰]t.me/ConfigsHub
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#[🇨🇦]t.me/ConfigsHub
