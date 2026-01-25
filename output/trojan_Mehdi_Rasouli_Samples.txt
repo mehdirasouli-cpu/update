@@ -230,3 +230,4 @@ trojan://er668@104.18.32.47:443?encryption=none&security=tls&sni=kfjdi.pages.dev
 trojan://BxceQaOe@58.152.53.219:443?security=tls&encryption=none&type=tcp&sni=t.me%252Fripaojiedian#[🇭🇰]t.me/ConfigsHub
 trojan://BxceQaOe@58.152.25.236:443?security=tls&encryption=none&type=tcp&sni=t.me%2Fripaojiedian#[🇭🇰]t.me/ConfigsHub
 trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#[🇨🇦]t.me/ConfigsHub
+trojan://humanity@free1.aattaash.com:443?security=tls&sni=www.creationlong.org&fp=chrome&alpn=h2%2Chttp%#[🇺🇸]t.me/ConfigsHub
