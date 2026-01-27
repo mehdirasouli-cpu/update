@@ -233,3 +233,4 @@ trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&f
 trojan://humanity@free1.aattaash.com:443?security=tls&sni=www.creationlong.org&fp=chrome&alpn=h2%2Chttp%#[🇺🇸]t.me/ConfigsHub
 trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#[🇺🇸]t.me/ConfigsHub
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#[🇨🇦]t.me/ConfigsHub
+trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@208.103.161.231:443?path=%2F51.91.253.83%3D8443&security=tls&type=ws&sni=gzjx.dpdns.org#[🇺🇸]t.me/ConfigsHub
