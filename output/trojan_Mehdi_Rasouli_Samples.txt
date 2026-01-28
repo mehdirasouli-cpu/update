@@ -235,3 +235,4 @@ trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#[🇨🇦]t.me/ConfigsHub
 trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@208.103.161.231:443?path=%2F51.91.253.83%3D8443&security=tls&type=ws&sni=gzjx.dpdns.org#[🇺🇸]t.me/ConfigsHub
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?path=%2F5.223.47.32%3D443&security=tls&insecure=0&host=afrcloud1.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud1.mmv.kr#[🇺🇸]t.me/ConfigsHub
+trojan://wz2vh0awz8iw@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&sni=y98fk7q84z0wfcjuirh.zjde5.de5.net#[🇨🇦]t.me/ConfigsHub
